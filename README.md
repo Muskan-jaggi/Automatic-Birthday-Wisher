@@ -1,6 +1,3 @@
-Sure! Here’s the text in a ready-to-copy format for your `README.md`:
-
-```markdown
 # Automatic Birthday Wisher
 
 This is a simple Python script that automatically sends birthday wishes via email to people listed in a CSV file. The script checks if today is anyone’s birthday, picks a random birthday message, and sends it to their email.
@@ -22,7 +19,7 @@ You’ll need Python 3.x and these libraries:
 - `dotenv`
 - `datetime`
 
-## Setup
+### Setup
 
 ### 1. Clone the Repository
 
